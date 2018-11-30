@@ -4,8 +4,6 @@ import dash_core_components as dcc
 import dash_html_components as html
 
 from dateutil.parser import parse
-
-from course import Course, Enrollment
 import requests
 
 app = dash.Dash()
