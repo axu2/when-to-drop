@@ -4,3 +4,4 @@ dash-core-components==0.38.0
 dash-table==3.1.7
 gunicorn==19.9.0
 python-dateutil==2.7.5
+requests==2.20.1
